@@ -1,0 +1,16 @@
+# Compiled class file
+*.class
+
+.gradle
+/build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# IntelliJ
+.idea
