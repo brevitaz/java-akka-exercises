@@ -1,6 +1,6 @@
 # Actor-Model exercises
 This project contains some
-[Actor-Model](https://en.wikipedia.org/wiki/Actor_modelhttps://en.wikipedia.org/wiki/Actor_model)
+[Actor-Model](https://en.wikipedia.org/wiki/Actor_model)
 base problems and its solution for fun exercise.
 
 ## Prerequisites 
